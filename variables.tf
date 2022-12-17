@@ -6,3 +6,7 @@ variable "rg_name" {
 variable "rg_location" {
   default = "West Europe"
 }
+
+variable "test_rg_name" {
+  
+}
